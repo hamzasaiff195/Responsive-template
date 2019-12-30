@@ -1,0 +1,18 @@
+body .mt-1 .row .col-md-4 .card .card-header i:hover {
+  cursor: pointer;
+  color: orange;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+  -webkit-transition: 1s ease-in-out;
+  transition: 1s ease-in-out;
+}
+
+body .mt-1 .row .col-md-4 .card .card-footer i:hover {
+  cursor: pointer;
+  color: #ffb42a;
+  -webkit-transform: scale(1.7);
+          transform: scale(1.7);
+  -webkit-transition: 1s ease-in-out;
+  transition: 1s ease-in-out;
+}
+/*# sourceMappingURL=new.css.map */
